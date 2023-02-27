@@ -44,6 +44,8 @@ def db_select_users(user_id:int=None) -> list:
   4. Close the connection to the database
   5. Return the retrieved record(s)
   '''
+  ksa;dflaskdfka;ls
+
   return []
 
 # UPDATE SQL query
